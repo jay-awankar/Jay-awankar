@@ -1,4 +1,4 @@
-![logo](https://github.com/jay-awankar/Jay-awankar/commit/87c651e2091dca0cb47cc46df1d56582bf311a8a)
+![logo](https://github.com/jay-awankar/Jay-awankar/blob/main/Blue%20And%20Red%20Futuristic%20Game%20YouTube%20Channel%20Art.jpg)
 
 <h1 align="center">Hey there!👋 I'm Jatin Awankar</h1>
 <h3 align="center">Currently on the way to be a professional programmer</h3>
