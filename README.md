@@ -1,7 +1,7 @@
 <h1 align="center">Hey there!👋 I'm Jatin Awankar</h1>
 <h3 align="center">Currently on the way to be a professional programmer</h3>
 
-<img align="right" alt="coding" width="400" src=""></img>
+<img align="right" alt="coding" width="400" src="https://github.com/jay-awankar/Jay-awankar/blob/main/image2.jpeg"></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jay-awankar&label=Profile%20views&color=0e75b6&style=flat" alt="jay-awankar" /> </p>
 
