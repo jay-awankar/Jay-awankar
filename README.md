@@ -1,4 +1,5 @@
-![banner](https://github.com/jay-awankar/Jay-awankar/blob/main/Jatin%20Awankar.png)
+<img src="Jatin%20Awankar.png" alt="banner" />
+<!--![banner](https://github.com/jay-awankar/Jay-awankar/blob/main/Jatin%20Awankar.png)-->
 
 <h1 align="center">Hey there!👋 I'm Jatin Awankar</h1>
 <h3 align="center">Currently on the way to be a professional Full-Stack Developer</h3>
