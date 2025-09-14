@@ -1,4 +1,4 @@
-<img src="Jatin%20Awankar.png" alt="banner" />
+<img src="Jatin-Awankar-Banner.png" alt="banner" />
 <!--![banner](https://github.com/jay-awankar/Jay-awankar/blob/main/Jatin%20Awankar.png)-->
 
 <h1 align="center">Hey there!👋 I'm Jatin Awankar</h1>
